@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Gibson Les Paul",
+        "price": 2999.99,
+        "imageUrl": "https://static.ten-guitars.de/Gibson/gibsonles-paul59-collectors-choice-cc2-goldie20121-c223f843e82d6d1bec75a94c2b102b1b8940a70e-1920x1080.jpg"
+    },
+    {
+        "name": "Fender Stratocaster",
+        "price": 1999.99,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Fender_Highway_1_Stratocaster.jpg"
+    },
+    {
+        "name": "Ibanez RG",
+        "price": 1299.99,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ibanez_RG.svg/1200px-Ibanez_RG.svg.png"
+    }
+]
